@@ -1,0 +1,21 @@
+[
+    {
+        "caption": "Scribe Inc.",
+	    "id": "scribe",
+        "children":
+        [
+            {
+                "caption": "Settings",
+                "mnemonic": "S",
+                "id": "scribe_settings",
+                "children": [
+                    {
+                        "caption": "Tab Completion",
+                        "command": "toggle_tab_completion",
+                        "checkbox": true
+                    }
+                ]
+            }
+        ]
+    }
+]

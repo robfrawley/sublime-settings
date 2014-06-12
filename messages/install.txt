@@ -1,0 +1,9 @@
+SCRIBE: SETTINGS
+================
+
+Description:
+	This package provides a simple means to access general Sublime settings.
+
+Usage: 
+	- To disable tab completion: Use the "Scribe Inc." > "Settings" menu and
+	  toggle the Tab Completion option.

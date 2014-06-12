@@ -1,4 +1,2 @@
-sublime-settings
-================
-
-General setting toggles applicable to Scribe
+# Sublime Text: Settings
+Provides both a menu for general settings within Sublime.

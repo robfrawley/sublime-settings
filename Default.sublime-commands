@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Toggle Tab Completion",
+        "command": "toggle_tab_completion"
+    }
+]
